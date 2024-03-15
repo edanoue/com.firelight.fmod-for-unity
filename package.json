@@ -1,6 +1,6 @@
 {
     "name": "com.firelight.fmod-for-unity",
-    "version": "2.2.20",
+    "version": "2.2.21",
     "displayName": "FMOD for Unity",
     "description": "",
     "dependencies": {
